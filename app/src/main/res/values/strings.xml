@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ingredify</string>
+    <string name="okay">Okay</string>
+    <string name="btn_notOkay">Not okay</string>
+    <string name="txt_Okay">Okay</string>
+    <string name="txt_notOkay">Not okay</string>
+    <string name="startup_message">Ingredify</string>
+    <string name="btn_scan">Scan</string>
+</resources>
